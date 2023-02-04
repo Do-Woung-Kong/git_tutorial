@@ -3,3 +3,6 @@ def squaresum(a,b):
 
 def triplesum(a,b):
     return a**3 + b**3
+
+def summinussquare(a,b):
+    return a-b
